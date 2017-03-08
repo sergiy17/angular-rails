@@ -35,6 +35,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 gem 'bower-rails'
+gem 'angular-rails-templates'
 gem 'sass', '3.2.19'
 group :test, :development do
   gem "rspec-rails", "~> 2.0"
